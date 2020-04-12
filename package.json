@@ -50,11 +50,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/budfy/Easy-webdev-startpack.git",
-  "author": "Roman Serdyuk",
+  "repository": "https://github.com/titanq7",
+  "author": "Aleksandr Vorzhev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/budfy/Startpack_Gulp4/issues"
+    "url": "https://github.com/titanq7"
   },
-  "homepage": "https://github.com/budfy/Startpack_Gulp4#readme"
+  "homepage": "https://github.com/titanq7"
 }
